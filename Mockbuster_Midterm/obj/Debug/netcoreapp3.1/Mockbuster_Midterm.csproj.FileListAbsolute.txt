@@ -1,0 +1,13 @@
+C:\Devbuild2021\Mockbuster_Midterm\Mockbuster_Midterm\bin\Debug\netcoreapp3.1\Mockbuster_Midterm.exe
+C:\Devbuild2021\Mockbuster_Midterm\Mockbuster_Midterm\bin\Debug\netcoreapp3.1\Mockbuster_Midterm.deps.json
+C:\Devbuild2021\Mockbuster_Midterm\Mockbuster_Midterm\bin\Debug\netcoreapp3.1\Mockbuster_Midterm.runtimeconfig.json
+C:\Devbuild2021\Mockbuster_Midterm\Mockbuster_Midterm\bin\Debug\netcoreapp3.1\Mockbuster_Midterm.runtimeconfig.dev.json
+C:\Devbuild2021\Mockbuster_Midterm\Mockbuster_Midterm\bin\Debug\netcoreapp3.1\Mockbuster_Midterm.dll
+C:\Devbuild2021\Mockbuster_Midterm\Mockbuster_Midterm\bin\Debug\netcoreapp3.1\Mockbuster_Midterm.pdb
+C:\Devbuild2021\Mockbuster_Midterm\Mockbuster_Midterm\obj\Debug\netcoreapp3.1\Mockbuster_Midterm.csprojAssemblyReference.cache
+C:\Devbuild2021\Mockbuster_Midterm\Mockbuster_Midterm\obj\Debug\netcoreapp3.1\Mockbuster_Midterm.AssemblyInfoInputs.cache
+C:\Devbuild2021\Mockbuster_Midterm\Mockbuster_Midterm\obj\Debug\netcoreapp3.1\Mockbuster_Midterm.AssemblyInfo.cs
+C:\Devbuild2021\Mockbuster_Midterm\Mockbuster_Midterm\obj\Debug\netcoreapp3.1\Mockbuster_Midterm.csproj.CoreCompileInputs.cache
+C:\Devbuild2021\Mockbuster_Midterm\Mockbuster_Midterm\obj\Debug\netcoreapp3.1\Mockbuster_Midterm.dll
+C:\Devbuild2021\Mockbuster_Midterm\Mockbuster_Midterm\obj\Debug\netcoreapp3.1\Mockbuster_Midterm.pdb
+C:\Devbuild2021\Mockbuster_Midterm\Mockbuster_Midterm\obj\Debug\netcoreapp3.1\Mockbuster_Midterm.genruntimeconfig.cache

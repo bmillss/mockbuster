@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Devbuild2021\\Mockbuster_Midterm\\MockbusterUnitTesting\\MockbusterUnitTesting.csproj": {}
+  },
+  "projects": {
+    "C:\\Devbuild2021\\Mockbuster_Midterm\\MockbusterUnitTesting\\MockbusterUnitTesting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Devbuild2021\\Mockbuster_Midterm\\MockbusterUnitTesting\\MockbusterUnitTesting.csproj",
+        "projectName": "MockbusterUnitTesting",
+        "projectPath": "C:\\Devbuild2021\\Mockbuster_Midterm\\MockbusterUnitTesting\\MockbusterUnitTesting.csproj",
+        "packagesPath": "C:\\Users\\bmiller11\\.nuget\\packages\\",
+        "outputPath": "C:\\Devbuild2021\\Mockbuster_Midterm\\MockbusterUnitTesting\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bmiller11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Devbuild2021\\Mockbuster_Midterm\\Mockbuster_Midterm\\Mockbuster_Midterm.csproj": {
+                "projectPath": "C:\\Devbuild2021\\Mockbuster_Midterm\\Mockbuster_Midterm\\Mockbuster_Midterm.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Devbuild2021\\Mockbuster_Midterm\\Mockbuster_Midterm\\Mockbuster_Midterm.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Devbuild2021\\Mockbuster_Midterm\\Mockbuster_Midterm\\Mockbuster_Midterm.csproj",
+        "projectName": "Mockbuster_Midterm",
+        "projectPath": "C:\\Devbuild2021\\Mockbuster_Midterm\\Mockbuster_Midterm\\Mockbuster_Midterm.csproj",
+        "packagesPath": "C:\\Users\\bmiller11\\.nuget\\packages\\",
+        "outputPath": "C:\\Devbuild2021\\Mockbuster_Midterm\\Mockbuster_Midterm\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bmiller11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
